@@ -27,7 +27,7 @@ FINANCIAL_SERVICES_TICKERS = [
     # Asset management
     "BLK", "BX",
     # Insurance
-    "MET", "PRU",
+    "MET", "PRU", "PGR",
     # Payments
     "V", "MA", "AXP", "GS",
 ]
