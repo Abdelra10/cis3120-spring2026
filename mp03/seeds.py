@@ -27,9 +27,9 @@ FINANCIAL_SERVICES_TICKERS = [
     # Asset management
     "BLK", "BX",
     # Insurance
-    "MET", "PRU",
+    "MET", "PRU", "PGR",
     # Payments
-    "V", "MA", "AXP",
+    "V", "MA", "AXP", "GS",
 ]
 
 FINANCIAL_SERVICES_PHRASES = [
@@ -43,6 +43,7 @@ FINANCIAL_SERVICES_PHRASES = [
     '"operations center"',
     '"data center"',
     '"new location"',
+    '"cash flow"',
 ]
 
 # ──────────────────────────────────────────────────────────────────────────
