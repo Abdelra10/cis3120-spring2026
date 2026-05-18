@@ -43,6 +43,7 @@ FINANCIAL_SERVICES_PHRASES = [
     '"operations center"',
     '"data center"',
     '"new location"',
+    '"cash flow"',
 ]
 
 # ──────────────────────────────────────────────────────────────────────────
