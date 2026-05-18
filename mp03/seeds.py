@@ -29,7 +29,7 @@ FINANCIAL_SERVICES_TICKERS = [
     # Insurance
     "MET", "PRU",
     # Payments
-    "V", "MA", "AXP",
+    "V", "MA", "AXP", "GS",
 ]
 
 FINANCIAL_SERVICES_PHRASES = [
